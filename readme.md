@@ -2,8 +2,7 @@ Travel API mock
 ===============
 
 Clone this repo on your local machine. It is the mock backend that your assignment will get its data from. For making
-the assignment fork our [empty assignment](https://github.com/Pim-Huisman/original-case), please see that page for more
-instructions.
+the assignment please fork the assignment that you got and see that page for more instructions.
 
 Start the mock (on Windows systems use the gradlew.bat file):
 
